@@ -93,3 +93,10 @@
     border: #dfdfdf;
 
 }
+.hidden {
+  display: none;
+}
+.to-top{
+    /* display: none; */
+    cursor: pointer;
+}
